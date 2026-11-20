@@ -33,3 +33,7 @@ claude plugin install crimson-ember --marketplace LunarKernel/claude-themes
 ```
 
 在桌面端（`/plugin` 不可用时）：点输入框旁的 +，选 Plugins，用 Add marketplace 添加 `LunarKernel/claude-themes`，再 Add plugin。
+
+## 许可证
+
+MIT，见 [LICENSE](LICENSE)。
