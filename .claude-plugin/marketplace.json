@@ -1,0 +1,14 @@
+{
+  "name": "claude-themes",
+  "description": "Claude 桌面端与手机端的配色主题合集",
+  "owner": {
+    "name": "LunarKernel"
+  },
+  "plugins": [
+    {
+      "name": "crimson-ember",
+      "source": "./plugins/crimson-ember",
+      "description": "暗红余烬主题：深血红底、玫红强调、琥珀点缀"
+    }
+  ]
+}
